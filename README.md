@@ -39,5 +39,5 @@ Ruby gems for electronic invoicing with AFIP, the Argentinian tax agency. bravo 
 
 ## GitHub stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=leanucci&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leanucci&layout=compact&hide_border=true)
+![GitHub stats](profile/stats.svg)
+![Top languages](profile/top-langs.svg)
